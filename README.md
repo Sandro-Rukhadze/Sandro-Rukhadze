@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Sandro-Rukhadze/Sandro-Rukhadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineering student passionate about web development and game design. Currently, I'm diving into front-end technologies.
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+- Learning front-end technologies: HTML, CSS, JavaScript.
+- Exploring project ideas and building small applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Future Learning Goals
+- **Back-End Development:** Interested in Java and Python
+- **Game Development:** Excited to learn Unity and Unreal Engine
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript.
+
+## 📚 Learning Resources
+- [W3schools](https://www.w3schools.com/)
+- [It Step Academy Georgia](https://ge.itstep.org/)
+
+## 📫 Connect with Me
+- Email: [Sandrorukhadze2005@gmail.com]
+
+## 🎉 Fun Facts
+- I love making youtube videos!
+- A huge fan of Video Games!
+
+Looking forward to connecting with fellow developers and learning together!
